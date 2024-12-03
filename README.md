@@ -1,6 +1,6 @@
 # Matasano/RB
 
-The first set of Matasano challenges, in Real Basic/Xojo. This is a very old project, which I am updating to a modern version of Xojo. This project has all the files need to build the project, including a Rijndael AES dynamic library (see folder). The library is precompiled, but the original files and build scripts for Mac OS X and Linux are there too.
+The first set of [Matasano challenges](https://cryptopals.com/sets/1), in Real Basic/Xojo. This is a very old project, which I am updating to a modern version of Xojo. This project has all the files need to build the project, including a Rijndael AES dynamic library (see folder). The library is precompiled, but the original files and build scripts for Mac OS X and Linux are there too.
 
 Around my birthday in 2013 (I was bored, it's in August...) I emailed the Matasano guys and asked for the set of challenges (there was only one set back then). I got them 4 days later. I had a look, did a couple of problems. Then got frustrated with #4 I think, and shelved that "for later". I came back to it a couple of times, grrrr, same thing.
 
