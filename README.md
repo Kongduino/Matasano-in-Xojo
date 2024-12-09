@@ -34,3 +34,5 @@ Running it on my MacBook M4 Pro, it is markedly faster:
 ```
 
 Still works like a charm. Just had to recompile easLib. I believe there are AES routines in Xojo now, but why bother :-)
+
+Problem 11 is not finished yet – I know exactly what to do (famous last words) but need time.
