@@ -87,3 +87,12 @@ Output
 004.|32 3E 7C FB E6 F4 AB A5 D0 AE 02 2B 60 0D 85 87 | |2>|........+`...|
     +------------------------------------------------+ +----------------+
 ```
+
+### Challenge 12
+
+It took me a while to understand what I had to do BUT I got it!
+
+> Rollin' in my 5.0
+> With my rag-top down so my hair can blow
+> The girlies on standby waving just to say hi
+> Did you stop? No, I just drove by
